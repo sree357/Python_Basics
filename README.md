@@ -1,1 +1,3 @@
-These are python basics one should learn at minumum .
+# Python
+This repo is for learning python basics which are fundamentals
+.
